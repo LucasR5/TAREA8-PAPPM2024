@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--blues-->
+    <array name="blues">
+        <item>@color/md_blue_500</item>
+        <item>@color/md_blue_50</item>
+        <item>@color/md_blue_100</item>
+        <item>@color/md_blue_200</item>
+        <item>@color/md_blue_300</item>
+        <item>@color/md_blue_400</item>
+        <item>@color/md_blue_600</item>
+        <item>@color/md_blue_700</item>
+        <item>@color/md_blue_800</item>
+        <item>@color/md_blue_900</item>
+        <item>@color/md_blue_A100</item>
+        <item>@color/md_blue_A200</item>
+        <item>@color/md_blue_A400</item>
+        <item>@color/md_blue_A700</item>
+    </array>
+    <color name="md_blue_50">#e3f2fd</color>
+    <color name="md_blue_100">#bbdefb</color>
+    <color name="md_blue_200">#90caf9</color>
+    <color name="md_blue_300">#64b5f6</color>
+    <color name="md_blue_400">#42a5f5</color>
+    <color name="md_blue_500">#2196f3</color>
+    <color name="md_blue_600">#1e88e5</color>
+    <color name="md_blue_700">#1976d2</color>
+    <color name="md_blue_800">#1565c0</color>
+    <color name="md_blue_900">#0d47a1</color>
+    <color name="md_blue_A100">#82b1ff</color>
+    <color name="md_blue_A200">#448aff</color>
+    <color name="md_blue_A400">#2979ff</color>
+    <color name="md_blue_A700">#2962ff</color>
+    <color name="md_blue_500_25">#402196f3</color>
+    <color name="md_blue_500_50">#802196f3</color>
+    <color name="md_blue_500_75">#c02196f3</color>
+
+
+    <!-- oranges -->
+    <array name="oranges">
+        <item>@color/md_orange_500</item>
+        <item>@color/md_orange_50</item>
+        <item>@color/md_orange_100</item>
+        <item>@color/md_orange_200</item>
+        <item>@color/md_orange_300</item>
+        <item>@color/md_orange_400</item>
+        <item>@color/md_orange_600</item>
+        <item>@color/md_orange_700</item>
+        <item>@color/md_orange_800</item>
+        <item>@color/md_orange_900</item>
+        <item>@color/md_orange_A100</item>
+        <item>@color/md_orange_A200</item>
+        <item>@color/md_orange_A400</item>
+        <item>@color/md_orange_A700</item>
+    </array>
+    <color name="md_orange_50">#fff3e0</color>
+    <color name="md_orange_100">#ffe0b2</color>
+    <color name="md_orange_200">#ffcc80</color>
+    <color name="md_orange_300">#ffb74d</color>
+    <color name="md_orange_400">#ffa726</color>
+    <color name="md_orange_500">#ff9800</color>
+    <color name="md_orange_600">#fb8c00</color>
+    <color name="md_orange_700">#f57c00</color>
+    <color name="md_orange_800">#ef6c00</color>
+    <color name="md_orange_900">#e65100</color>
+    <color name="md_orange_A100">#ffd180</color>
+    <color name="md_orange_A200">#ffab40</color>
+    <color name="md_orange_A400">#ff9100</color>
+    <color name="md_orange_A700">#ff6d00</color>
+    <color name="md_orange_500_25">#40ff9800</color>
+    <color name="md_orange_500_50">#80ff9800</color>
+    <color name="md_orange_500_75">#c0ff9800</color>
+
+
+</resources>

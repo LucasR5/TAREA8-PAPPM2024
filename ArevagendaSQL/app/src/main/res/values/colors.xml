@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- greens -->
+    <array name="greens">
+        <item>@color/md_green_500</item>
+        <item>@color/md_green_50</item>
+        <item>@color/md_green_100</item>
+        <item>@color/md_green_200</item>
+        <item>@color/md_green_300</item>
+        <item>@color/md_green_400</item>
+        <item>@color/md_green_600</item>
+        <item>@color/md_green_700</item>
+        <item>@color/md_green_800</item>
+        <item>@color/md_green_900</item>
+        <item>@color/md_green_A100</item>
+        <item>@color/md_green_A200</item>
+        <item>@color/md_green_A400</item>
+        <item>@color/md_green_A700</item>
+    </array>
+    <color name="md_green_50">#e8f5e9</color>
+    <color name="md_green_100">#c8e6c9</color>
+    <color name="md_green_200">#a5d6a7</color>
+    <color name="md_green_300">#81c784</color>
+    <color name="md_green_400">#66bb6a</color>
+    <color name="md_green_500">#4caf50</color>
+    <color name="md_green_600">#43a047</color>
+    <color name="md_green_700">#388e3c</color>
+    <color name="md_green_800">#2e7d32</color>
+    <color name="md_green_900">#1b5e20</color>
+    <color name="md_green_A100">#b9f6ca</color>
+    <color name="md_green_A200">#69f0ae</color>
+    <color name="md_green_A400">#00e676</color>
+    <color name="md_green_A700">#00c853</color>
+    <color name="md_green_500_25">#404caf50</color>
+    <color name="md_green_500_50">#804caf50</color>
+    <color name="md_green_500_75">#c04caf50</color>
+
+
+
+</resources>
